@@ -16,3 +16,23 @@ link: https://jquery.com
 
 ## Lodash - Lib javascript para manipulação de matrizes, strings, objetos, números, etc.
 link: https://lodash.com
+
+## D3.js - D3.js é uma biblioteca JavaScript para manipular documentos com base em dados.
+link: https://d3js.org
+
+## Anime.js - Anime.js (/ˈæn.ə.meɪ/) é uma biblioteca de animação JavaScript leve com uma API simples, mas poderosa. Funciona com propriedades CSS, SVG, atributos DOM e Objetos JavaScript.
+link: https://animejs.com
+
+## AOS(Animate on Scroll) - Animações tipo parallax
+link: https://michalsnik.github.io/aos/
+
+## BIDEO.JS - Uma biblioteca JS que torna muito fácil adicionar vídeos de fundo em tela cheia.
+link: https://rishabhp.github.io/bideo.js/
+
+## Chart.js é uma biblioteca flexível e simples para adicionar diagramas e gráficos a seus projetos.
+link: https://www.chartjs.org/docs/latest/
+
+## Cleave.js oferece uma solução interessante se você deseja formatar seu conteúdo de texto.
+link: https://nosir.github.io/cleave.js/
+
+
