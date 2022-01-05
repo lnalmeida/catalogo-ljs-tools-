@@ -74,6 +74,6 @@ link: https://github.com/sindresorhus/screenfull
 ## Lit - Lit é uma biblioteca simples para a construção de componentes da web rápidos e leves.
 link: https://lit.dev
 
-## Voca.js - A biblioteca Voca oferece funções úteis para tornar as manipulações de cordas confortáveis: mudar caixa, aparar, acolchoar, slugify, latinise, sprintf'y, truncate, escape e muito mais. O design modular permite carregar toda a biblioteca ou funções individuais para minimizar a criação de aplicativos. A biblioteca foi totalmente testada, bem documentada e com suporte de longo prazo.
+## Voca.js - A biblioteca Voca oferece funções úteis para tornar as manipulações de strings confortáveis: change case, trim, pad, slugify, latinise, sprintf'y, truncate, escape e muito mais. O design modular permite carregar toda a biblioteca ou funções individuais para minimizar a criação de aplicativos. A biblioteca foi totalmente testada, bem documentada e com suporte de longo prazo.
 link: https://vocajs.com
 
